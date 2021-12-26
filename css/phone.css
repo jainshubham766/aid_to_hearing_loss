@@ -1,0 +1,15 @@
+#navbar {
+    content: " ";
+    border: 4px solid rgb(204, 203, 203);
+    height: 89px;
+    width: 118.5%;
+    /* background-color: rgb(222, 245, 251); */
+    background-color: #f2f2f2;
+    top: 0px;
+    border-radius: 0px;
+    transition: 0.7s all;
+    position: absolute;
+}
+.container{
+
+}
